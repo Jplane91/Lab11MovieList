@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{D1032407-B930-4B77-BEDB-20821543B42B}|Default">
+  <MonoDevelop.Ide.ItemProperties.Lab11 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab11/Prompt.cs">
+    <Files>
+      <File FileName="Lab11/Program.cs" Line="41" Column="13" />
+      <File FileName="Lab11/Movie.cs" Line="80" Column="44" />
+      <File FileName="Lab11/Prompt.cs" Line="51" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab11" expanded="True">
+            <Node name="Lab11" expanded="True">
+              <Node name="Prompt.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
